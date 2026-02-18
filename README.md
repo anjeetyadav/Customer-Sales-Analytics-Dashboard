@@ -51,8 +51,8 @@ The dataset contains customer shopping behavior data including:
 - Credit Card and PayPal are the most used payment methods.
 - 
 ## 🖼 Dashboard Preview
-![Dashboard Overview](dashboard_overview.png
-)
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
 
 ---
 
